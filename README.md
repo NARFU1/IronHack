@@ -11,3 +11,10 @@ ____
 #### :white_check_mark:  Ссылка на прототип сайта: https://deve.lol/kl/
 Исходники в папке kl в репозитории
 ____
+
+#### Контактные данные:
+- Уровень списка 1. **Литвиненко Илья (manager):** @SuperIlja, litvinenko.i@sevkv.ru.
+- Уровень списка 1. **Максимова Юлия (econmics):** maximova.u@sevkv.ru.
+- Уровень списка 1. **Вострых Влада (UX-designer):** @gyutrd, vostrykh.v@sevkv.ru.
+- Уровень списка 1. **Крехалев Всеволод (web):** @lokerdlife, krekhalev.v@sevkv.ru.
+- Уровень списка 1. **Колесникова Алена (architect):** kolesnikova.a@sevkv.ru.
